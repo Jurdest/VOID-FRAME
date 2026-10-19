@@ -6,7 +6,20 @@ y borde negro.
 
 Sin ventana principal, sin instalador y sin dependencias externas.
 
+[![Última versión](https://img.shields.io/github/v/release/Jurdest/VOID-FRAME?label=versi%C3%B3n&color=000000)](https://github.com/Jurdest/VOID-FRAME/releases/latest)
+![Windows 11](https://img.shields.io/badge/Windows%2011-22000%2B-0078D4)
+![.NET Framework 4.8](https://img.shields.io/badge/.NET%20Framework-4.8-512BD4)
+
 > **By: Jurdest (Void Lord)**
+
+---
+
+## Descarga
+
+**[⬇ Descargar VOID-FRAME.exe](https://github.com/Jurdest/VOID-FRAME/releases/latest/download/VOID-FRAME.exe)**
+
+Ese enlace lleva siempre a la última versión publicada. También puedes ver todas
+las versiones en [Releases](https://github.com/Jurdest/VOID-FRAME/releases).
 
 ---
 
@@ -17,7 +30,7 @@ Sin ventana principal, sin instalador y sin dependencias externas.
 
 ## Instalación
 
-1. Descarga **`VOID FRAME.exe`** de este repositorio.
+1. Descarga el ejecutable desde la sección [Descarga](#descarga).
 2. Ejecútalo y acepta el aviso de UAC. La aplicación pide permisos de administrador
    para poder modificar ventanas de otros procesos.
 3. El icono 元 aparece en la bandeja del sistema (en Windows 11 suele estar dentro
