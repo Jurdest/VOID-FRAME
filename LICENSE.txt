@@ -1,0 +1,14 @@
+VOID FRAME
+Copyright (c) 2026 Jurdest (Void Lord). Todos los derechos reservados.
+
+Este repositorio distribuye únicamente el ejecutable compilado de VOID FRAME.
+
+1. Se permite el uso personal y gratuito del ejecutable, tal como se distribuye.
+2. No se permite la redistribución, la venta, la modificación ni la extracción
+   de su contenido sin autorización expresa del autor.
+3. El software se proporciona "TAL CUAL", sin garantía de ningún tipo, expresa o
+   implícita, incluyendo pero no limitándose a las garantías de comerciabilidad o
+   idoneidad para un fin concreto. En ningún caso el autor será responsable de
+   daños directos o indirectos derivados del uso del software.
+
+Para cualquier consulta o permiso: Jurdest (Void Lord).
